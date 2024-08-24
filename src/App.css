@@ -1,0 +1,11 @@
+#main
+{
+    border: 1px solid black;
+    height: auto;
+   
+}
+/* styles.css */
+.custom-table thead tr:first-child {
+    background-color: #f8f9fa; /* Change this to your desired color */
+  }
+  
